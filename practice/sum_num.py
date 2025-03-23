@@ -28,4 +28,4 @@ for i in range(0,n):
     avg=sum(a)/n
 print("avg of given no:",round(avg,2))
 
-output
+output,input
